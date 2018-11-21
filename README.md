@@ -1,0 +1,1 @@
+# ProgramowanieRownolegleLab8
